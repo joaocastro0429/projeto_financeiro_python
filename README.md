@@ -18,5 +18,5 @@ Este é um projeto financeiro desenvolvido em Python utilizando o `SQLModel` par
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/projeto-financeiro.git
+   git clone https://github.com/joaocastro0429/projeto_financeiro_python.git
    cd projeto-financeiro
